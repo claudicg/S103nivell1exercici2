@@ -49,10 +49,10 @@ public class LlistaNumeros {
 	
 	public void mostrarExercici() {
 		
-		System.out.println(emplenarLlista().toString());
-		System.out.println(invertirLlista().toString());
-		System.out.println(inserirLlista().toString());
-		System.out.println(recorrerInserirLlista().toString());
+		System.out.println(emplenarLlista());
+		System.out.println(invertirLlista());
+		System.out.println(inserirLlista());
+		System.out.println(recorrerInserirLlista());
 		
 	}
 }
